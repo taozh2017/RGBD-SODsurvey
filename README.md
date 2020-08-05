@@ -167,6 +167,9 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 01 | 2014 | LFS   | CVPR   | Saliency detection on light field | [Paper](https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf)/[Project](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)
+02 | 2015 | WSC   | CVPR   | A weighted sparse coding framework for saliency detection | [Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_A_Weighted_Sparse_2015_CVPR_paper.pdf)/[Project](https://www.researchgate.net/publication/294874666_Code_WSC)
+03 | 2015 | DILF  | IJCAI  | Saliency detection with a deeper investigationof light field | [Paper](https://www.ijcai.org/Proceedings/15/Papers/313.pdf)/[Project](https://github.com/pencilzhang/lightfieldsaliency_ijcai15)
+04 | 2016 | RL    | ICASSP | Relative location for light field saliency detection | [Paper](http://sites.nlsde.buaa.edu.cn/~shenghao/Download/publications/2016/11.Relative%20location%20for%20light%20field%20saliency%20detection.pdf)/Project
 
 
 
