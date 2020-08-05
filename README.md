@@ -170,6 +170,13 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 02 | 2015 | WSC   | CVPR   | A weighted sparse coding framework for saliency detection | [Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_A_Weighted_Sparse_2015_CVPR_paper.pdf)/[Project](https://www.researchgate.net/publication/294874666_Code_WSC)
 03 | 2015 | DILF  | IJCAI  | Saliency detection with a deeper investigationof light field | [Paper](https://www.ijcai.org/Proceedings/15/Papers/313.pdf)/[Project](https://github.com/pencilzhang/lightfieldsaliency_ijcai15)
 04 | 2016 | RL    | ICASSP | Relative location for light field saliency detection | [Paper](http://sites.nlsde.buaa.edu.cn/~shenghao/Download/publications/2016/11.Relative%20location%20for%20light%20field%20saliency%20detection.pdf)/Project
+05 | 2017 | MA    | ACM TOMM   | Saliency detection on light field: A multi-cue approach | [Paper](http://www.linliang.net/wp-content/uploads/2017/07/ACMTOM_Saliency.pdf)/Project
+06 | 2017 | BIF   | NPL    | A two-stage bayesian integration framework for salient object detection on light field | [Paper](https://link.springer.com/article/10.1007/s11063-017-9610-x)/Project
+07 | 2017 | LFS   | TPAMI  | Saliency Detection on Light Field | [Paper](https://ieeexplore.ieee.org/document/7570181)/[Project](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)
+08 | 2017 | RLM   | ICIVC  | Saliency detection with relative location measure in light field image | [Paper](https://ieeexplore.ieee.org/document/7984449/)/Project
+09 | 2017 | SGDC  | CVPR   | Salience guided depth calibration for perceptually optimized compressive light field 3D display | [Paper](https://ieeexplore.ieee.org/document/8578315/)/Project
+10 | 2018 | DCA   | FiO    | Depth-induced cellular automata for light field saliency | [Paper](https://ieeexplore.ieee.org/document/8866752)/Project
+11 | 2018 | DLLF  | ICCV   | Deep learning for light field saliency detection | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)/[Project](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)
 
 
 
