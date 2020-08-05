@@ -238,11 +238,11 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 [ICNet](https://ieeexplore.ieee.org/document/9024241), 
 [JL-DCF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf), and 
 [UC-Net](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_UC-Net_Uncertainty_Inspired_RGB-D_Saliency_Detection_via_Conditional_Variational_Autoencoders_CVPR_2020_paper.pdf). 
-We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five datasets (i.e., [STERE](ttp://dpfan.net/wp-content/uploads/STERE_dataset_CVPR12.pdf), 
+We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five datasets (i.e., [STERE](http://dpfan.net/wp-content/uploads/STERE_dataset_CVPR12.pdf), 
 [NLPR](http://dpfan.net/wp-content/uploads/NLPR_dataset_ECCV14.pdf), 
 [LFSD](http://dpfan.net/wp-content/uploads/LFSD_dataset_CVPR14.pdf), 
-[DES](http://dpfan.net/wp-content/uploads/DES_dataset_ICIMCS14.pdf), and [SIP]
-(http://dpfan.net/wp-content/uploads/SIP_dataset_TNNLS20.pdf)). We report the mean values of $S_{\alpha}$ and MAE across the five datasets. Note that these better models are shown in the upper left corner (\ie, with a larger $S_{\alpha}$ and smaller MAE).*
+[DES](http://dpfan.net/wp-content/uploads/DES_dataset_ICIMCS14.pdf), and [SIP](http://dpfan.net/wp-content/uploads/SIP_dataset_TNNLS20.pdf)
+). We report the mean values of $S_{\alpha}$ and MAE across the five datasets. Note that these better models are shown in the upper left corner (\ie, with a larger $S_{\alpha}$ and smaller MAE).*
 
 
 ======================= **run evaluation code** ===============================
