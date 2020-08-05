@@ -166,7 +166,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-01 | 2014 | LFS   | CVPR   | Saliency detection on light field | Paper(https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf)/[Project](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)
+01 | 2014 | LFS   | CVPR   | Saliency detection on light field | [Paper](https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf)/[Project](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)
 
 
 
