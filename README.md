@@ -195,7 +195,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** |**Dataset** | **Year** | **Pub.** |**Size** | **Description** | **Download**
 :-: | :-: | :-: | :-  | :-  | :-:| :-: 
-1   | [**LFSD**](https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf)   |2014 |CVPR   | 100 |  | [link](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)
+1   | [**LFSD**](https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf)   |2014 |CVPR   | 100 | It contains 60 indoor and 40 outdoor scenes, and most scenes consist of only one salient object | [link](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)
 
 
 
