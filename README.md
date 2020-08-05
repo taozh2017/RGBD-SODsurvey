@@ -21,8 +21,8 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 1. <a href="#survey"> Related Reviews and Surveys to SOD </a>
 2. <a href="#RGBDmodels"> RGB-D SOD Models </a>
-3. <a href="#LFmodels">  Light Field SOD Models </a>
-4. <a href="#datasets"> RGB-D SOD Datasets </a>
+3. <a href="#datasets"> RGB-D SOD Datasets </a>
+4. <a href="#LFmodels">  Light Field SOD Models </a>
 5. <a href="#evaluation"> Evaluation </a>
     1. <a href="#overallevaluation">  Overall Evaluation: </a>
     1. <a href="#Attribute">  Attribute-based Evaluation: </a>
@@ -142,17 +142,6 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 
 
-
-
-
-
-
-------
-
-## Light Field SOD Models:  <a id="LFmodels" class="anchor" href="#LFmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-
-
-
 ------
 
 ## RGB-D SOD Datasets:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
@@ -168,6 +157,18 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 7   | [**SSD**](http://dpfan.net/wp-content/uploads/SSD_dataset_ICCVW17.pdf)      |2017 |ICCVW  | 80   | Multiple  |Movies               | 960 *1080  | [link](http://dpfan.net/d3netbenchmark/)
 8   | [**DUT-RGBD**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf) |2019 |ICCV   | 1200 | Multiple  |Indoor/outdoor       | 400 * 600 | [link](http://dpfan.net/d3netbenchmark/)
 9   | [**SIP**](http://dpfan.net/wp-content/uploads/SIP_dataset_TNNLS20.pdf)     |2020 |TNNLS  | 929  | Multiple  |Person in wild       | 992 * 774 | [link](http://dpfan.net/d3netbenchmark/)
+
+
+
+------
+
+## Light Field SOD Models:  <a id="LFmodels" class="anchor" href="#LFmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
+01 | 2014 | LFS   | CVPR   | Saliency detection on light field | Paper(https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf)/[Project](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)
+
+
 
 
 
