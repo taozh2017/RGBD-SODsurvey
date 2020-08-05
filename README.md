@@ -223,6 +223,8 @@ will update
 
 ### Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+If you find our survey paper and evaluation code are useful, please cite the following paper:
+
 	@article{zhou2020rgbd,
   		title={RGB-D Salient Object Detection: A Survey},
   		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
@@ -230,6 +232,5 @@ will update
   		year={2020},
 	}
 	
-If you find our survey paper and evaluation code are useful, please cite above paper.
 
 
