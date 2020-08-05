@@ -193,7 +193,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 [UC-Net](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_UC-Net_Uncertainty_Inspired_RGB-D_Saliency_Detection_via_Conditional_Variational_Autoencoders_CVPR_2020_paper.pdf). 
 We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five datasets (i.e., STERE, NLPR, LFSD, DES, and SIP). We report the mean values of $S_{\alpha}$ and MAE across the five datasets. Note that these better models are shown in the upper left corner (\ie, with a larger $S_{\alpha}$ and smaller MAE).*
 
-======================= run evaluation code ===================================
+======================= **run evaluation code** ===============================
 
 1. We have compute values of different evaluation metrics for each image and save as '***.mat';
 2. Please unzip the file 'Sal_Det_Results_24_Models.zip'  ;
