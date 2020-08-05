@@ -157,9 +157,9 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 ## RGB-D SOD Datasets:  <a id="verallevaluation" class="anchor" href="#verallevaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-**No.** |**Dataset** | **Year** | **Pub.** |**Size** | **#Obj.** | **Types** 
-:-: | :-: | :-: | :-  | :-  | :-:| :-: 
-1   | **STERE** ([ref.](http://dpfan.net/wp-content/uploads/STERE_dataset_CVPR12.pdf)) |2012 |CVPR | 1000 | One |Internet |
+**No.** |**Dataset** | **Year** | **Pub.** |**Size** | **#Obj.** | **Types** | **Resolution** | **Download**
+:-: | :-: | :-: | :-  | :-  | :-:| :-: | :-: | :-:
+1   | **STERE** ([ref.](http://dpfan.net/wp-content/uploads/STERE_dataset_CVPR12.pdf)) |2012 |CVPR | 1000 | One |Internet |[251~1200] * [222~900] | [link](http://dpfan.net/d3netbenchmark/)
 2   | STERE |2012 |CVPR | 1000 | One |Internet |
 
 
