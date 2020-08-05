@@ -22,7 +22,9 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 1. <a href="#survey"> Related Reviews and Surveys to SOD </a>
 2. <a href="#RGBDmodels"> RGB-D SOD Models </a>
 3. <a href="#datasets"> RGB-D SOD Datasets </a>
-4. <a href="#LFmodels">  Light Field SOD Models </a>
+4. <a href="#LFSOD">  Light Field SOD </a>
+    1. <a href="#LFmodels">  LF SOD Models </a>
+    1. <a href="#LFdatasets">  LF Datasets </a>
 5. <a href="#evaluation"> Evaluation </a>
     1. <a href="#overallevaluation">  Overall Evaluation </a>
     1. <a href="#Attribute">  Attribute-based Evaluation </a>
@@ -163,7 +165,9 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 ------
 ------
-## Light Field SOD Models:  <a id="LFmodels" class="anchor" href="#LFmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+## Light Field SOD:  <a id="LFSOD" class="anchor" href="#LFSOD" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+
+### LF SOD Models: <a id="LFmodels" class="anchor" href="#LFmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -185,6 +189,11 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 16 | 2020 | RDFD  | MTAP   | Region-based depth feature descriptor for saliency detection light field | [Paper](https://link.springer.com/article/10.1007%2Fs11042-020-08890-x)/Project
 17 | 2020 | LFNet | TIP    | LFNet light field fusion network for salient object detection | [Paper](https://ieeexplore.ieee.org/document/9082882)/[Project](https://github.com/jiwei0921/LFNet)
 18 | 2020 | LFDCN | TIP    | Light field saliency detection with deep convolutional networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net)
+
+
+### LF Datasets: <a id="LFdatasets" class="anchor" href="#LFdatasets" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
+
 
 
 ------
