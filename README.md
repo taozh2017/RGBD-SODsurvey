@@ -7,7 +7,7 @@ This is a survey to review related RGB-D SOD models along with benchmark dataset
   
   
 
-![alt text](./Fig0.jpg)
+![alt text](./figures/Fig0.jpg)
 *Fig.0: A brief chronology of RGB-D based SOD. The first early RGB-D based SOD work was the [DM](https://link.springer.com/content/pdf/10.1007/978-3-642-33709-3_8.pdf) model, proposed in 2012. Deep learning
 techniques have been widely applied to RGB-D based SOD since 2017. More details can be found in our [paper](https://arxiv.org/pdf/2008.00230.pdf).*
 
@@ -168,7 +168,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 
 
-![alt text](./Fig_overall.jpg)
+![alt text](./figures/Fig_overall.jpg)
 *Fig.1: A comprehensive evaluation for 24 representative RGB-D based SOD models, including [LHM](http://dpfan.net/wp-content/uploads/NLPR_dataset_ECCV14.pdf), [ACSD](http://dpfan.net/wp-content/uploads/DES_dataset_ICIMCS14.pdf), [DESM](http://dpfan.net/wp-content/uploads/DES_dataset_ICIMCS14.pdf), 
 [GP](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W14/papers/Ren_Exploiting_Global_Priors_2015_CVPR_paper.pdf),
 [LBE](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S10-09.pdf), 
@@ -197,7 +197,7 @@ We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five dat
 
 
 
-![alt text](./Fig_F_curve.jpg)
+![alt text](./figures/Fig_F_curve.jpg)
 *Fig.2: PR curves for 24 RGB-D based models on STERE, NLPR, LFSD, DES, SIP, GIT, SSD, and NJUD datasets.*
 
 ### Attribute-based Evaluation: <a id="Attribute" class="anchor" href="#Attribute" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
