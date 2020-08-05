@@ -252,8 +252,11 @@ We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five dat
 
 
 
-![alt text](./figures/Fig_F_curve.jpg)
+![alt text](./figures/Fig_PR.jpg)
 *Fig.2: PR curves for 24 RGB-D based models on STERE, NLPR, LFSD, DES, SIP, GIT, SSD, and NJUD datasets.*
+
+![alt text](./figures/Fig_F_curve.jpg)
+*##Fig.3##:  F-measures under different thresholds for 24 RGB-D based models on STERE, NLPR, LFSD, DES, SIP, GIT, SSD, and NJUD datasets.*
 
 ======================= **run plot code** ===============================
 
