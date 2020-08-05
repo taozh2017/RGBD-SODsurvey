@@ -223,12 +223,12 @@ will update
 
 ### Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-@article{zhou2020rgbd,
-  title={RGB-D Salient Object Detection: A Survey},
-  author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
-  journal={arXiv preprint arXiv:2008.00230},
-  year={2020},
-  }
+	@article{zhou2020rgbd,
+  		title={RGB-D Salient Object Detection: A Survey},
+  		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
+  		journal={arXiv preprint arXiv:2008.00230},
+  		year={2020},
+	}
 	
 If you find our srvey paper and evaluation code are useful, please cite above paper.
 
