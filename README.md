@@ -230,6 +230,6 @@ will update
   		year={2020},
 	}
 	
-If you find our srvey paper and evaluation code are useful, please cite above paper.
+If you find our survey paper and evaluation code are useful, please cite above paper.
 
 
