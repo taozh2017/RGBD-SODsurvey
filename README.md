@@ -13,7 +13,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 
 
-
+------
 ------
 
 
@@ -24,10 +24,11 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 3. <a href="#datasets"> RGB-D SOD Datasets </a>
 4. <a href="#LFmodels">  Light Field SOD Models </a>
 5. <a href="#evaluation"> Evaluation </a>
-    1. <a href="#overallevaluation">  Overall Evaluation: </a>
-    1. <a href="#Attribute">  Attribute-based Evaluation: </a>
+    1. <a href="#overallevaluation">  Overall Evaluation </a>
+    1. <a href="#Attribute">  Attribute-based Evaluation </a>
 6. <a href="#citation"> Citation </a>
 
+------
 ------
 
 ## Related Reviews and Surveys to SOD:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
@@ -44,7 +45,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 08 | 2019 | IEEE TNNLS |  Object detection with deep learning: A review | [Paper](https://arxiv.org/pdf/1807.05511.pdf)/Project
 09 | 2019 | arXiv      |  Salient Object Detection in the Deep Learning Era: An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Project](https://github.com/wenguanwang/SODsurvey) 
 
-
+------
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
@@ -141,7 +142,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 01 | 2012 | DM    | ECCV           | Depth matters: Influence of depth cues on visual saliency        | [Paper](https://link.springer.com/content/pdf/10.1007/978-3-642-33709-3_8.pdf)/Project 
 
 
-
+------
 ------
 
 ## RGB-D SOD Datasets:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
@@ -181,9 +182,9 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 13 | 2019 | Molf  | NIPS   | Memory-oriented decoder for light field salient object detection | [Paper](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf)/[Project](https://github.com/OIPLab-DUT/MoLF)
 14 | 2020 | ERNet | AAAI   | Exploit and replace: An asymmetrical two-stream architecture for versatile light field saliency detection | [Paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6860)/Project
 15 | 2020 | DCA   | TIP    | Saliency detection via depth-induced cellular automata onlight field | [Paper](https://ieeexplore.ieee.org/document/8866752)/Project
-
-
-
+16 | 2020 | RDFD  | MTAP   | Region-based depth feature descriptor for saliency detection light field | [Paper](https://link.springer.com/article/10.1007%2Fs11042-020-08890-x)/Project
+17 | 2020 | LFNet | TIP    | LFNet light field fusion network for salient object detection | [Paper](https://ieeexplore.ieee.org/document/9082882)/[Project](https://github.com/jiwei0921/LFNet)
+18 | 2020 | LFDCN | TIP    | Light field saliency detection with deep convolutional networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net)
 
 
 ------
@@ -241,12 +242,15 @@ will update
 
 ========================================================================
 
+------
+------
 
 
 ### Attribute-based Evaluation: <a id="Attribute" class="anchor" href="#Attribute" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
-
+------
+------
 
 ### Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
