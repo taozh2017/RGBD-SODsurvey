@@ -196,7 +196,7 @@ We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five dat
 ======================= **run evaluation code** ===============================
 
 1. We have compute values of different evaluation metrics for each image and save as '***.mat';
-2. Please unzip the file 'Sal_Det_Results_24_Models.zip'  ;
+2. Please unzip the file 'Sal_Det_Results_24_Models.zip' in the file 'results';
 3. run 'run_overall_evaluation.m' 
 
 
