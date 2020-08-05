@@ -26,7 +26,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 5. <a href="#evaluation"> Evaluation </a>
     1. <a href="#overallevaluation">  Overall Evaluation: </a>
     1. <a href="#Attribute">  Attribute-based Evaluation: </a>
-
+6. <a href="#citation"> Citation </a>
 
 ------
 
@@ -220,19 +220,16 @@ will update
 
 
 
-===========================================================================
 
-Citation:
+### Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-	@article{zhou2020rgbd,
-  		title={RGB-D Salient Object Detection: A Survey},
-  		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
-  		journal={arXiv preprint arXiv:2008.00230},
-  		year={2020},
-	}
+@article{zhou2020rgbd,
+  title={RGB-D Salient Object Detection: A Survey},
+  author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
+  journal={arXiv preprint arXiv:2008.00230},
+  year={2020},
+  }
 	
-If you find our dataset is useful, please cite above paper.
-
-===========================================================================
+If you find our srvey paper and evaluation code are useful, please cite above paper.
 
 
