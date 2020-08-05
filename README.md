@@ -159,8 +159,8 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** |**Dataset** | **Year** | **Pub.** |**Size** | **#Obj.** | **Types** 
 :-: | :-: | :-: | :-  | :-  | :-:| :-: 
-1   | STERE |2012 |CVPR | 1000 | One |Internet |
-1   | STERE |2012 |CVPR | 1000 | One |Internet |
+1   | **STERE**[ref.](http://dpfan.net/wp-content/uploads/STERE_dataset_CVPR12.pdf) |2012 |CVPR | 1000 | One |Internet |
+2   | STERE |2012 |CVPR | 1000 | One |Internet |
 
 
 
