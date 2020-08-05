@@ -177,7 +177,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 04 | 2016 | RL    | ICASSP | Relative location for light field saliency detection | [Paper](http://sites.nlsde.buaa.edu.cn/~shenghao/Download/publications/2016/11.Relative%20location%20for%20light%20field%20saliency%20detection.pdf)/Project
 05 | 2017 | MA    | ACM TOMM   | Saliency detection on light field: A multi-cue approach | [Paper](http://www.linliang.net/wp-content/uploads/2017/07/ACMTOM_Saliency.pdf)/Project
 06 | 2017 | BIF   | NPL    | A two-stage bayesian integration framework for salient object detection on light field | [Paper](https://link.springer.com/article/10.1007/s11063-017-9610-x)/Project
-07 | 2017 | LFS   | TPAMI  | Saliency Detection on Light Field | [Paper](https://ieeexplore.ieee.org/document/7570181)/[Project](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)
+07 | 2017 | LFS   | IEEE TPAMI  | Saliency Detection on Light Field | [Paper](https://ieeexplore.ieee.org/document/7570181)/[Project](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)
 08 | 2017 | RLM   | ICIVC  | Saliency detection with relative location measure in light field image | [Paper](https://ieeexplore.ieee.org/document/7984449/)/Project
 09 | 2017 | SGDC  | CVPR   | Salience guided depth calibration for perceptually optimized compressive light field 3D display | [Paper](https://ieeexplore.ieee.org/document/8578315/)/Project
 10 | 2018 | DCA   | FiO    | Depth-induced cellular automata for light field saliency | [Paper](https://ieeexplore.ieee.org/document/8866752)/Project
@@ -185,10 +185,10 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 12 | 2019 | DLSD  | IJCAI  | Deep light-field-driven saliency detection from a single view | [Paper](https://www.ijcai.org/Proceedings/2019/0127.pdf)/Project
 13 | 2019 | Molf  | NIPS   | Memory-oriented decoder for light field salient object detection | [Paper](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf)/[Project](https://github.com/OIPLab-DUT/MoLF)
 14 | 2020 | ERNet | AAAI   | Exploit and replace: An asymmetrical two-stream architecture for versatile light field saliency detection | [Paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6860)/Project
-15 | 2020 | DCA   | TIP    | Saliency detection via depth-induced cellular automata onlight field | [Paper](https://ieeexplore.ieee.org/document/8866752)/Project
+15 | 2020 | DCA   | IEEE TIP    | Saliency detection via depth-induced cellular automata onlight field | [Paper](https://ieeexplore.ieee.org/document/8866752)/Project
 16 | 2020 | RDFD  | MTAP   | Region-based depth feature descriptor for saliency detection light field | [Paper](https://link.springer.com/article/10.1007%2Fs11042-020-08890-x)/Project
-17 | 2020 | LFNet | TIP    | LFNet light field fusion network for salient object detection | [Paper](https://ieeexplore.ieee.org/document/9082882)/[Project](https://github.com/jiwei0921/LFNet)
-18 | 2020 | LFDCN | TIP    | Light field saliency detection with deep convolutional networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net)
+17 | 2020 | LFNet | IEEE TIP    | LFNet light field fusion network for salient object detection | [Paper](https://ieeexplore.ieee.org/document/9082882)/[Project](https://github.com/jiwei0921/LFNet)
+18 | 2020 | LFDCN | IEEE TIP    | Light field saliency detection with deep convolutional networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net)
 
 
 ### LF Datasets: <a id="LFdatasets" class="anchor" href="#LFdatasets" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
