@@ -1,7 +1,7 @@
 # [RGB-D Salient Object Detection: A Survey](https://arxiv.org/abs/2008.00230) 
 Authors: [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Ming-Ming Cheng*](https://mmcheng.net/), [*Jianbing Shen*](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en), [*Ling Shao*](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en).
 
-This is a survey [[arXiv](https://arxiv.org/abs/2008.00230)] to review related RGB-D SOD models along with benchmark datasets, and provide a comprehensive evaluation for these models. We also collect related review papers for SOD and light field SOD models. If you have papers to recommend or any suggestions, please feel free to contact us.
+This is a survey to review related RGB-D SOD models along with benchmark datasets, and provide a comprehensive evaluation for these models. We also collect related review papers for SOD and light field SOD models. If you have papers to recommend or any suggestions, please feel free to contact us.
 
 :running: :running: :running: ***KEEP UPDATING***.   
   
@@ -28,7 +28,8 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 5. <a href="#evaluation"> Evaluation </a>
     1. <a href="#overallevaluation">  Overall Evaluation </a>
     1. <a href="#Attribute">  Attribute-based Evaluation </a>
-6. <a href="#citation"> Citation </a>
+6. <a href="#benchmark"> RGB-D SOD Benchmark </a>       
+7. <a href="#citation"> Citation </a>
 
 ------
 ------
@@ -289,6 +290,15 @@ will update
 
 ### Attribute-based Evaluation: <a id="Attribute" class="anchor" href="#Attribute" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+
+------
+------
+
+
+### RGB-D SOD Benchmark : <a id="benchmark" class="anchor" href="#benchmark" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
+The complete RGB-D SOD benchmark can be found in this page:
+[http://dpfan.net/d3netbenchmark/](http://dpfan.net/d3netbenchmark/)
 
 ------
 ------
