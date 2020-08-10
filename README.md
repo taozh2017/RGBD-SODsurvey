@@ -55,6 +55,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+90 | 2020 | MCINet | arXiv         | MCINet: Multi-level Cross-modal Interaction Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.14352.pdf)/Project
 89 | 2020 | PGAR   | ECCV          | Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection | Paper/[Project](https://github.com/ShuhanChen/PGAR_ECCV20)
 88 | 2020 | ATSA   | ECCV          | Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection	| Paper/[Project](https://github.com/sxfduter/ATSA)
 87 | 2020 | BBS-Net| ECCV          | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](https://arxiv.org/pdf/2007.02713.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)
