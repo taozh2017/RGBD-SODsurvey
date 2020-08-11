@@ -285,7 +285,7 @@ We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five dat
 ======================= **run plot code** ===========================
 1. To run 'run_plot_curves.m' (plot Fig.2 and Fig.3)
 
-==============================================================
+=============================================================
 
 ------
 ------
