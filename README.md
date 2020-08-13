@@ -55,7 +55,8 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-92 | 2020 | SDSFNet   | IEEE TIP   | Improved Saliency Detection in RGB-D Images Using Two-phase Depth Estimation and Selective Deep Fusion | [Paper](http://probb268dca.pic5.ysjianzhan.cn/upload/TIP20_FHR.pdf)/Project
+93 | 2020 | DQAM   | arXiv         | Knowing Depth Quality In Advance: A Depth Quality Assessment Method For RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2008.04157.pdf)
+92 | 2020 | SDSFNet| IEEE TIP      | Improved Saliency Detection in RGB-D Images Using Two-phase Depth Estimation and Selective Deep Fusion | [Paper](http://probb268dca.pic5.ysjianzhan.cn/upload/TIP20_FHR.pdf)/Project
 91 | 2020 | ERLF   | IEEE TIP      | Data-Level Recombination and Lightweight Fusion Scheme for RGB-D Salient Object Detection | [Paper](http://probb268dca.pic5.ysjianzhan.cn/upload/TIP20_WXH_q02i.pdf)/[Project](https://github.com/XueHaoWang-Beijing/DRLF)
 90 | 2020 | MCINet | arXiv         | MCINet: Multi-level Cross-modal Interaction Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.14352.pdf)/Project
 89 | 2020 | PGAR   | ECCV          | Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection | Paper/[Project](https://github.com/ShuhanChen/PGAR_ECCV20)
