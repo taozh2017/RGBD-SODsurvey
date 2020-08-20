@@ -60,7 +60,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 92 | 2020 | SDSFNet| IEEE TIP      | Improved Saliency Detection in RGB-D Images Using Two-phase Depth Estimation and Selective Deep Fusion | [Paper](http://probb268dca.pic5.ysjianzhan.cn/upload/TIP20_FHR.pdf)/Project
 91 | 2020 | ERLF   | IEEE TIP      | Data-Level Recombination and Lightweight Fusion Scheme for RGB-D Salient Object Detection | [Paper](http://probb268dca.pic5.ysjianzhan.cn/upload/TIP20_WXH_q02i.pdf)/[Project](https://github.com/XueHaoWang-Beijing/DRLF)
 90 | 2020 | MCINet | arXiv         | MCINet: Multi-level Cross-modal Interaction Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.14352.pdf)/Project
-89 | 2020 | PGAR   | ECCV          | Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection | Paper/[Project](https://github.com/ShuhanChen/PGAR_ECCV20)
+89 | 2020 | PGAR   | ECCV          | Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2008.07064.pdf)/[Project](https://github.com/ShuhanChen/PGAR_ECCV20)
 88 | 2020 | ATSA   | ECCV          | Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection	| Paper/[Project](https://github.com/sxfduter/ATSA)
 87 | 2020 | BBS-Net| ECCV          | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](https://arxiv.org/pdf/2007.02713.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)
 86 | 2020 | CoNet  | ECCV          | Accurate RGB-D Salient Object Detection via Collaborative Learning | [Paper](https://arxiv.org/pdf/2007.11782.pdf)/[Project](https://github.com/jiwei0921/CoNet)
