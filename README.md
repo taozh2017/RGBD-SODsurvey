@@ -52,10 +52,11 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2020-08-26)
+:fire::fire::fire:Update (in 2020-08-28)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire: 96 | 2020 |MMNet  | ACM MM        | MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection | Paper/Project
+:fire: 97 | 2020 |Jl-DCF   | arXiv (CVPR extension)   | Siamese Network for RGB-D Salient Object Detection and Beyond | [Paper](https://arxiv.org/pdf/2008.12134.pdf)/[Project](https://github.com/kerenfu/JLDCF)
+:fire: 96 | 2020 |MMNet  | ACM MM  | MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection | Paper/Project
 95 | 2020 |DASNet  | ACM MM        | Is depth really necessary for salient object detection? | [Paper](https://arxiv.org/pdf/2006.00269.pdf)/[Project](http://cvteam.net/projects/2020/DASNet/)
 94 | 2020 |FRDT    | ACM MM        | Feature Reintegration over Differential Treatment: A Top-down and Adaptive Fusion Network for RGB-D Salient Object Detection | Paper/[Project](https://github.com/jack-admiral/ACM-MM-FRDT)
 93 | 2020 | HANet   | Appl. Sci.       | Hybrid‐Attention Network for RGB‐D Salient Object Detection | Paper/Project
