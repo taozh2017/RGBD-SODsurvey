@@ -318,7 +318,7 @@ If you find our survey paper and evaluation code are useful, please cite the fol
 	@article{zhou2020rgbd,
   		title={RGB-D Salient Object Detection: A Survey},
   		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
-  		journal={arXiv preprint arXiv:2008.00230},
+  		journal={Computational Visual Media},
   		year={2020},
 	}
 	
