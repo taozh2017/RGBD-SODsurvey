@@ -47,16 +47,17 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 07 | 2019 | CVM        |  Salient object detection: A survey | [Paper](https://link.springer.com/content/pdf/10.1007/s41095-019-0149-9.pdf)/Project
 08 | 2019 | IEEE TNNLS |  Object detection with deep learning: A review | [Paper](https://arxiv.org/pdf/1807.05511.pdf)/Project
 09 | 2019 | arXiv      |  Salient Object Detection in the Deep Learning Era: An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Project](https://github.com/wenguanwang/SODsurvey) 
-10 | 2020 | arXiv      |  Light Field Salient Object Detection: A Review and Benchmark | [Paper]/[Project](https://github.com/kerenfu/LFSOD-Survey) 
+10 | 2020 | arXiv      |  Light Field Salient Object Detection: A Review and Benchmark | [Paper](https://arxiv.org/pdf/2010.04968.pdf)/[Project](https://github.com/kerenfu/LFSOD-Survey) 
 
 ------
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2020-09-17)
+:fire::fire::fire:Update (in 2020-10-13)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire: 96 | 2020 |DCMF   | IEEE TIP   | RGBD Salient Object Detection via Disentangled Cross-Modal Fusion| [Paper](https://ieeexplore.ieee.org/document/9165931)/[Project](https://github.com/haochen593/Disen_Fuse_TIP2020)
+:fire: 97 | 2020 |SMAC   | arXiv (CVPR extension)   | Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection| [Paper](https://arxiv.org/pdf/2010.05537.pdf)/[Project](https://github.com/nnizhang/SMAC)
+96 | 2020 |DCMF   | IEEE TIP   | RGBD Salient Object Detection via Disentangled Cross-Modal Fusion| [Paper](https://ieeexplore.ieee.org/document/9165931)/[Project](https://github.com/haochen593/Disen_Fuse_TIP2020)
 95 | 2020 |JL-DCF   | arXiv (CVPR extension)   | Siamese Network for RGB-D Salient Object Detection and Beyond | [Paper](https://arxiv.org/pdf/2008.12134.pdf)/[Project](https://github.com/kerenfu/JLDCF)
 94 | 2020 |MMNet  | ACM MM  | MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection | Paper/Project
 93 | 2020 |DASNet  | ACM MM        | Is depth really necessary for salient object detection? | [Paper](https://arxiv.org/pdf/2006.00269.pdf)/[Project](http://cvteam.net/projects/2020/DASNet/)
