@@ -8,7 +8,7 @@ This is a survey to review related RGB-D SOD models along with benchmark dataset
   
 
 ![alt text](./figures/Fig0.jpg)
-*Fig.0: A brief chronology of RGB-D based SOD. The first early RGB-D based SOD work was the [DM](https://link.springer.com/content/pdf/10.1007/978-3-642-33709-3_8.pdf) model, proposed in 2012. Deep learning
+*Fig.0: A brief chronology of RGB-D based SOD. The first early RGB-D based SOD work was the [DM](https://link.springer.com/content/pdf/10.1007/978-3-642-33709-3_8.pdf) model, proposed in 2012. Deep learning 
 techniques have been widely applied to RGB-D based SOD since 2017. More details can be found in our [paper](https://arxiv.org/pdf/2008.00230.pdf).*
 
 
@@ -115,7 +115,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 41 | 2018 | CDB   | Neurocomputing | Stereoscopic saliency model using contrast and depth-guided-background prior | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231217317034)/Project
 40 | 2018 | ACCF  | IROS           | Attention-Aware Cross-Modal Cross-Level Fusion Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/8594373)/Project
 39 | 2018 | SCDL  | ICDSP          | Rgbd salient object detection using spatially coherent deep learning framework | [Paper](https://ieeexplore.ieee.org/document/8631584)/Project
-38 | 2018 | PCF   | CVPR           | Progressively complementarityaware fusion network for RGB-D salient object detection | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Progressively_Complementarity-Aware_Fusion_CVPR_2018_paper.pdf)/[Project](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18)
+38 | 2018 | PCF   | CVPR           | Progressively complementarity-aware fusion network for RGB-D salient object detection | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Progressively_Complementarity-Aware_Fusion_CVPR_2018_paper.pdf)/[Project](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18)
 37 | 2018 | CTMF  | IEEE TCYB      | CNNs-based RGB-D saliency detection via cross-view transfer and multiview fusion | [Paper](https://ieeexplore.ieee.org/document/8091125)/[Project](https://github.com/haochen593/CTMF)
 36 | 2018 | ICS   | IEEE TIP       | Co-saliency detection for RGBD images based on multi-constraint feature matching and cross label propagation | [Paper](https://arxiv.org/pdf/1710.05172.pdf)/Project
 35 | 2018 | HSCS  | IEEE TMM       | HSCS: Hierarchical sparsity based co-saliencydetection for RGBD images | [Paper](https://arxiv.org/pdf/1811.06679.pdf)/[Project](https://github.com/rmcong/Results-for-2018TMM-HSCS)
