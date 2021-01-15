@@ -53,11 +53,12 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2020-12-05)
+:fire::fire::fire:Update (in 2021-01-15)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire: 99 | 2020 |CRACE    | arXiv   | A Unified Structure for Efficient RGB and RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2012.00437.pdf)/Project
-:fire: 98 | 2020 |EF-Net   | PR      | EF-Net: A novel enhancement and fusion network for RGB-D saliency detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305434)/Project
+:fire: 100 | 2021 |WGI-Net    | CVM   | WGI-Net: A weighted group integration network for RGB-D salient object detection | [Paper](https://link.springer.com/article/10.1007/s41095-020-0200-x)/Project
+99 | 2020 |CRACE    | arXiv   | A Unified Structure for Efficient RGB and RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2012.00437.pdf)/Project
+98 | 2020 |EF-Net   | PR      | EF-Net: A novel enhancement and fusion network for RGB-D saliency detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305434)/Project
 97 | 2020 |SMAC   | arXiv (CVPR extension)   | Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection| [Paper](https://arxiv.org/pdf/2010.05537.pdf)/[Project](https://github.com/nnizhang/SMAC)
 96 | 2020 |DCMF   | IEEE TIP   | RGBD Salient Object Detection via Disentangled Cross-Modal Fusion| [Paper](https://ieeexplore.ieee.org/document/9165931)/[Project](https://github.com/haochen593/Disen_Fuse_TIP2020)
 95 | 2020 |JL-DCF   | arXiv (CVPR extension)   | Siamese Network for RGB-D Salient Object Detection and Beyond | [Paper](https://arxiv.org/pdf/2008.12134.pdf)/[Project](https://github.com/kerenfu/JLDCF)
@@ -260,7 +261,7 @@ We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five dat
 
 ======================= **run evaluation code** ===============================
 
-1. We have computed values of different evaluation metrics for each image of each models and save as '***.mat', and the results can be downloaded from [Google Drive](https://drive.google.com/file/d/1w_PLsvMzRQmnfv7PYHfEbbqd0s_iHDci/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1kGRoErBvEzYY3t4pRxUSrA)(extraction code: urra).
+1. We have computed values of different evaluation metrics for each image of each models and save as '***.mat', and the results can be downloaded from Google Drive or [Baidu Drive](https://pan.baidu.com/s/1kGRoErBvEzYY3t4pRxUSrA)(extraction code: urra).
 2. Please unzip the downloaded file 'Sal_Det_Results_24_Models.zip' and put it into the file 'results';
 3. To run 'run_overall_evaluation.m' (plot Fig.1 )
 
