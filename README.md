@@ -56,6 +56,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 :fire::fire::fire:Update (in 2021-01-15)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+:fire: 101 | 2021 |RD3D    | AAAI   | RGB-D Salient Object Detection via 3D Convolutional Neural | Paper/[Project](https://github.com/PPOLYpubki/RD3D)
 :fire: 100 | 2021 |WGI-Net    | CVM   | WGI-Net: A weighted group integration network for RGB-D salient object detection | [Paper](https://link.springer.com/article/10.1007/s41095-020-0200-x)/Project
 99 | 2020 |CRACE    | arXiv   | A Unified Structure for Efficient RGB and RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2012.00437.pdf)/Project
 98 | 2020 |EF-Net   | PR      | EF-Net: A novel enhancement and fusion network for RGB-D saliency detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305434)/Project
