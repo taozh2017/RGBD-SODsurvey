@@ -53,9 +53,11 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2021-01-15)
+:fire::fire::fire:Update (in 2021-01-17)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+:fire: 103 | 2021 |MobileSal    | arXiv   | MobileSal: Extremely Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2012.13095)/Project
+:fire: 102 | 2021 |--    | The Visual Computer    | A robust RGBD saliency method with improved probabilistic contrast and the global reference surface | [Paper](https://link.springer.com/article/10.1007/s00371-020-02050-w)/Project
 :fire: 101 | 2021 |RD3D    | AAAI   | RGB-D Salient Object Detection via 3D Convolutional Neural | Paper/[Project](https://github.com/PPOLYpubki/RD3D)
 :fire: 100 | 2021 |WGI-Net    | CVM   | WGI-Net: A weighted group integration network for RGB-D salient object detection | [Paper](https://link.springer.com/article/10.1007/s41095-020-0200-x)/Project
 99 | 2020 |CRACE    | arXiv   | A Unified Structure for Efficient RGB and RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2012.00437.pdf)/Project
