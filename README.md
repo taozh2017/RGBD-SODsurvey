@@ -330,7 +330,7 @@ If you find our survey paper and evaluation code are useful, please cite the fol
   		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
   		journal={Computational Visual Media},
   		pages={1--33},
-  		year={2020},
+  		year={2021},
   		publisher={Springer}
 	}
 	
