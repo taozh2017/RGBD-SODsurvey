@@ -53,13 +53,16 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2021-01-17)
+:fire::fire::fire:Update (in 2021-02-07)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire: 103 | 2021 |MobileSal    | arXiv   | MobileSal: Extremely Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2012.13095)/Project
-:fire: 102 | 2021 |--    | The Visual Computer    | A robust RGBD saliency method with improved probabilistic contrast and the global reference surface | [Paper](https://link.springer.com/article/10.1007/s00371-020-02050-w)/Project
-:fire: 101 | 2021 |RD3D    | AAAI   | RGB-D Salient Object Detection via 3D Convolutional Neural | Paper/[Project](https://github.com/PPOLYpubki/RD3D)
-:fire: 100 | 2021 |WGI-Net    | CVM   | WGI-Net: A weighted group integration network for RGB-D salient object detection | [Paper](https://link.springer.com/article/10.1007/s41095-020-0200-x)/Project
+:fire: 106 | 2021 |--   | arXiv   | Self-Supervised Representation Learning for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/Project
+:fire: 105 | 2021 |--   | Sensors | Saliency Detection with Bilateral Absorbing Markov Chain Guided by Depth Information | [Paper](https://www.mdpi.com/1424-8220/21/3/838)/Project
+:fire: 104 | 2021 |BPA-Net    | DSP   | Boundary-aware pyramid attention network for detecting salient objects in RGB-D images | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200421000142)/Project
+103 | 2021 |MobileSal    | arXiv   | MobileSal: Extremely Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2012.13095)/Project
+102 | 2021 |--    | The Visual Computer    | A robust RGBD saliency method with improved probabilistic contrast and the global reference surface | [Paper](https://link.springer.com/article/10.1007/s00371-020-02050-w)/Project
+101 | 2021 |RD3D    | AAAI   | RGB-D Salient Object Detection via 3D Convolutional Neural | Paper/[Project](https://github.com/PPOLYpubki/RD3D)
+100 | 2021 |WGI-Net    | CVM   | WGI-Net: A weighted group integration network for RGB-D salient object detection | [Paper](https://link.springer.com/article/10.1007/s41095-020-0200-x)/Project
 99 | 2020 |CRACE    | arXiv   | A Unified Structure for Efficient RGB and RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2012.00437.pdf)/Project
 98 | 2020 |EF-Net   | PR      | EF-Net: A novel enhancement and fusion network for RGB-D saliency detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305434)/Project
 97 | 2020 |SMAC   | arXiv (CVPR extension)   | Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection| [Paper](https://arxiv.org/pdf/2010.05537.pdf)/[Project](https://github.com/nnizhang/SMAC)
