@@ -325,12 +325,14 @@ The complete RGB-D SOD benchmark can be found in this page:
 
 If you find our survey paper and evaluation code are useful, please cite the following paper:
 
-	@article{zhou2020rgbd,
-  		title={RGB-D Salient Object Detection: A Survey},
-  		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
-  		journal={Computational Visual Media},
-  		year={2020},
-	}
+@article{zhou2021rgb,
+  title={RGB-D salient object detection: A survey},
+  author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
+  journal={Computational Visual Media},
+  pages={1--33},
+  year={2021},
+  publisher={Springer}
+}
 	
 
 
