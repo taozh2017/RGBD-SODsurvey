@@ -180,7 +180,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 7   | [**SSD**](http://dpfan.net/wp-content/uploads/SSD_dataset_ICCVW17.pdf)      |2017 |ICCVW  | 80   | Multiple  |Movies               | 960 *1080  | [link](http://dpfan.net/d3netbenchmark/)
 8   | [**DUT-RGBD**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf) |2019 |ICCV   | 1200 | Multiple  |Indoor/outdoor       | 400 * 600 | [link](http://dpfan.net/d3netbenchmark/)
 9   | [**SIP**](http://dpfan.net/wp-content/uploads/SIP_dataset_TNNLS20.pdf)     |2020 |TNNLS  | 929  | Multiple  |Person in wild       | 992 * 774 | [link](http://dpfan.net/d3netbenchmark/)
-10  | [**ReDWeb-S**](https://arxiv.org/pdf/2010.05537.pdf)     |2020 |arxiv  | 3179   | Multiple  |Diversity       | [133-937] * [132-996] | [link](https://github.com/nnizhang/SMAC)
+10  | [**ReDWeb-S**](https://arxiv.org/pdf/2010.05537.pdf)     |2020 |arXiv  | 3179   | Multiple  |Diversity       | [133-937] * [132-996] | [link](https://github.com/nnizhang/SMAC)
 
 
 
