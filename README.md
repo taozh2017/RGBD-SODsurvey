@@ -53,12 +53,14 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2021-02-07)
+:fire::fire::fire:Update (in 2021-03-19)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire: 106 | 2021 |--   | arXiv   | Self-Supervised Representation Learning for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/Project
-:fire: 105 | 2021 |--   | Sensors | Saliency Detection with Bilateral Absorbing Markov Chain Guided by Depth Information | [Paper](https://www.mdpi.com/1424-8220/21/3/838)/Project
-:fire: 104 | 2021 |BPA-Net    | DSP   | Boundary-aware pyramid attention network for detecting salient objects in RGB-D images | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200421000142)/Project
+:fire: 108 | 2021 |--  | IEEE TIP | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9371407)/Project[https://github.com/MathLee/HAINet]
+:fire: 107 | 2021 |AFLNet  | SP: IC  | AFLNet: Adversarial focal loss network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596521000497)/Project
+106 | 2021 |--   | arXiv   | Self-Supervised Representation Learning for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/Project
+105 | 2021 |--   | Sensors | Saliency Detection with Bilateral Absorbing Markov Chain Guided by Depth Information | [Paper](https://www.mdpi.com/1424-8220/21/3/838)/Project
+104 | 2021 |BPA-Net    | DSP   | Boundary-aware pyramid attention network for detecting salient objects in RGB-D images | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200421000142)/Project
 103 | 2021 |MobileSal    | arXiv   | MobileSal: Extremely Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2012.13095)/Project
 102 | 2021 |--    | The Visual Computer    | A robust RGBD saliency method with improved probabilistic contrast and the global reference surface | [Paper](https://link.springer.com/article/10.1007/s00371-020-02050-w)/Project
 101 | 2021 |RD3D    | AAAI   | RGB-D Salient Object Detection via 3D Convolutional Neural | Paper/[Project](https://github.com/PPOLYpubki/RD3D)
