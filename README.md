@@ -56,7 +56,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 :fire::fire::fire:Update (in 2021-03-19)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire: 108 | 2021 |--  | IEEE TIP | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9371407)/Project[https://github.com/MathLee/HAINet]
+:fire: 108 | 2021 |--  | IEEE TIP | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9371407)/[Project](https://github.com/MathLee/HAINet)
 :fire: 107 | 2021 |AFLNet  | SP: IC  | AFLNet: Adversarial focal loss network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596521000497)/Project
 106 | 2021 |--   | arXiv   | Self-Supervised Representation Learning for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/Project
 105 | 2021 |--   | Sensors | Saliency Detection with Bilateral Absorbing Markov Chain Guided by Depth Information | [Paper](https://www.mdpi.com/1424-8220/21/3/838)/Project
