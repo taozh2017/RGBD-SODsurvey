@@ -53,11 +53,18 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2021-03-19)
+:fire::fire::fire:Update (in 2021-05-13)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire: 108 | 2021 |--  | IEEE TIP | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9371407)/[Project](https://github.com/MathLee/HAINet)
-:fire: 107 | 2021 |AFLNet  | SP: IC  | AFLNet: Adversarial focal loss network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596521000497)/Project
+:fire: 115 | 2021 |--  | CVPR | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion  | [Paper](https://arxiv.org/pdf/2103.11832.pdf)/Project
+:fire: 114 | 2021 |--  | CVPR | Calibrated RGB-D Salient Object Detection  | Paper/Project
+113 | 2021 |BTS-Net  | ICME| BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection  | Paper/[Project](https://github.com/zwbx/BTS-Net)
+112 | 2021 |CDNet  | IEEE TIP| CDNet: Complementary Depth Network for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9366409)/[Project](https://github.com/blanclist/CDNet)
+111 | 2021 |CCAFNet  | IEEE TMM | CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images  | [Paper](https://ieeexplore.ieee.org/abstract/document/9424966)/Project
+110 | 2021 |ShuffeNet  | arXiv | Middle-level Fusion for Lightweight RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2104.11543.pdf)/Project
+109 | 2021 |--  | The Visual Computer | Guided residual network for RGB-D salient object detection with efficient depth feature learning  | [Paper](https://link.springer.com/article/10.1007/s00371-021-02106-5)/Project
+108 | 2021 |--  | IEEE TIP | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9371407)/[Project](https://github.com/MathLee/HAINet)
+107 | 2021 |AFLNet  | SP: IC  | AFLNet: Adversarial focal loss network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596521000497)/Project
 106 | 2021 |--   | arXiv   | Self-Supervised Representation Learning for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/Project
 105 | 2021 |--   | Sensors | Saliency Detection with Bilateral Absorbing Markov Chain Guided by Depth Information | [Paper](https://www.mdpi.com/1424-8220/21/3/838)/Project
 104 | 2021 |BPA-Net    | DSP   | Boundary-aware pyramid attention network for detecting salient objects in RGB-D images | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200421000142)/Project
