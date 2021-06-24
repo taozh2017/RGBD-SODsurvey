@@ -72,11 +72,11 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 102 | 2021 |--    | The Visual Computer    | A robust RGBD saliency method with improved probabilistic contrast and the global reference surface | [Paper](https://link.springer.com/article/10.1007/s00371-020-02050-w)/Project
 101 | 2021 |RD3D    | AAAI   | RGB-D Salient Object Detection via 3D Convolutional Neural | Paper/[Project](https://github.com/PPOLYpubki/RD3D)
 100 | 2021 |WGI-Net    | CVM   | WGI-Net: A weighted group integration network for RGB-D salient object detection | [Paper](https://link.springer.com/article/10.1007/s41095-020-0200-x)/Project
-99 | 2020 |CRACE    | arXiv   | A Unified Structure for Efficient RGB and RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2012.00437.pdf)/Project
-98 | 2020 |EF-Net   | PR      | EF-Net: A novel enhancement and fusion network for RGB-D saliency detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305434)/Project
-97 | 2020 |SMAC   | arXiv (CVPR extension)   | Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection| [Paper](https://arxiv.org/pdf/2010.05537.pdf)/[Project](https://github.com/nnizhang/SMAC)
-96 | 2020 |DCMF   | IEEE TIP   | RGBD Salient Object Detection via Disentangled Cross-Modal Fusion| [Paper](https://ieeexplore.ieee.org/document/9165931)/[Project](https://github.com/haochen593/Disen_Fuse_TIP2020)
-95 | 2020 |JL-DCF   | arXiv (CVPR extension)   | Siamese Network for RGB-D Salient Object Detection and Beyond | [Paper](https://arxiv.org/pdf/2008.12134.pdf)/[Project](https://github.com/kerenfu/JLDCF)
+99 | 2021 |JL-DCF   | IEEE TPAMI  | Siamese Network for RGB-D Salient Object Detection and Beyond | [Paper](https://arxiv.org/pdf/2008.12134.pdf)/[Project](https://github.com/kerenfu/JLDCF)
+98 | 2020 |CRACE    | arXiv   | A Unified Structure for Efficient RGB and RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2012.00437.pdf)/Project
+97 | 2020 |EF-Net   | PR      | EF-Net: A novel enhancement and fusion network for RGB-D saliency detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305434)/Project
+96 | 2020 |SMAC   | arXiv (CVPR extension)   | Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection| [Paper](https://arxiv.org/pdf/2010.05537.pdf)/[Project](https://github.com/nnizhang/SMAC)
+95 | 2020 |DCMF   | IEEE TIP   | RGBD Salient Object Detection via Disentangled Cross-Modal Fusion| [Paper](https://ieeexplore.ieee.org/document/9165931)/[Project](https://github.com/haochen593/Disen_Fuse_TIP2020)
 94 | 2020 |MMNet  | ACM MM  | MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413523)/Project
 93 | 2020 |DASNet  | ACM MM        | Is depth really necessary for salient object detection? | [Paper](https://arxiv.org/pdf/2006.00269.pdf)/[Project](http://cvteam.net/projects/2020/DASNet/)
 92 | 2020 |FRDT    | ACM MM        | Feature Reintegration over Differential Treatment: A Top-down and Adaptive Fusion Network for RGB-D Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413969)/[Project](https://github.com/jack-admiral/ACM-MM-FRDT)
