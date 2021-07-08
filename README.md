@@ -56,7 +56,6 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 :fire::fire::fire:Update (in 2021-07-07)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-
 :fire:120 | 2021 |DFM-Net  | ACM MM | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Project](https://github.com/zwbx/DFM-Net)
 :fire:119 | 2021 |VST  | arXiv | Visual Saliency Transformer   | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/Project
 118 | 2021 |--  | arXiv | Progressive Multi-scale Fusion Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2106.03941.pdf)/Project
