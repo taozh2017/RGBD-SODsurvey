@@ -57,11 +57,8 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 
-%:fire: 115 | 2021 |--  | CVPR | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion  | [Paper](https://arxiv.org/pdf/2103.11832.pdf)/Project
-
-
-120 | 2021 |DFM-Net  | ACM MM | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Project](https://github.com/zwbx/DFM-Net)
-119 | 2021 |VST  | arXiv | Visual Saliency Transformer   | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/Project
+:fire:120 | 2021 |DFM-Net  | ACM MM | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Project](https://github.com/zwbx/DFM-Net)
+:fire:119 | 2021 |VST  | arXiv | Visual Saliency Transformer   | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/Project
 118 | 2021 |--  | arXiv | Progressive Multi-scale Fusion Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2106.03941.pdf)/Project
 117 | 2021 |--  | arXiv | Dynamic Knowledge Distillation with A Single Stream Structure for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2106.09517.pdf)/Project
 116 | 2021 |MRINet  | SPL | MRINet: Multilevel Reverse-Context Interactive-Fusion Network for Detecting Salient Objects in RGB-D Images  | [Paper](https://ieeexplore.ieee.org/abstract/document/9466383)/Project
