@@ -53,11 +53,15 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2021-07-07)
+:fire::fire::fire:Update (in 2021-08-05)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:120 | 2021 |DFM-Net  | ACM MM | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Project](https://github.com/zwbx/DFM-Net)
-:fire:119 | 2021 |VST  | arXiv | Visual Saliency Transformer   | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/Project
+:fire:124 | 2021 |SP-Net  | ICCV| Specificity-preserving RGB-D Saliency Detection  | Paper/[Project](https://github.com/taozh2017/SPNet)
+:fire:123 | 2021 |--  | ICCV| RGB-D Saliency Detection via Cascaded Mutual Information Minimization  | Paper/[Project](https://github.com/JingZhang617/cascaded_rgbd_sod)
+122 | 2021 |TriTransNet  | ACM MM | TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network  | Paper/[Project](https://github.com/liuzywen/TriTransNet)
+121 | 2021 |CDINet  | ACM MM | Cross-modality Discrepant Interaction Network for RGB-D Salient Object Detection  | Paper/Project
+120 | 2021 |DFM-Net  | ACM MM | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Project](https://github.com/zwbx/DFM-Net)
+119 | 2021 |VST  | arXiv | Visual Saliency Transformer   | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/Project
 118 | 2021 |--  | arXiv | Progressive Multi-scale Fusion Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2106.03941.pdf)/Project
 117 | 2021 |--  | arXiv | Dynamic Knowledge Distillation with A Single Stream Structure for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2106.09517.pdf)/Project
 116 | 2021 |MRINet  | SPL | MRINet: Multilevel Reverse-Context Interactive-Fusion Network for Detecting Salient Objects in RGB-D Images  | [Paper](https://ieeexplore.ieee.org/abstract/document/9466383)/Project
@@ -195,6 +199,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 8   | [**DUT-RGBD**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf) |2019 |ICCV   | 1200 | Multiple  |Indoor/outdoor       | 400 * 600 | [link](http://dpfan.net/d3netbenchmark/)
 9   | [**SIP**](http://dpfan.net/wp-content/uploads/SIP_dataset_TNNLS20.pdf)     |2020 |TNNLS  | 929  | Multiple  |Person in wild       | 992 * 774 | [link](http://dpfan.net/d3netbenchmark/)
 10  | [**ReDWeb-S**](https://arxiv.org/pdf/2010.05537.pdf)     |2020 |arXiv  | 3179   | Multiple  |Diversity       | [133-937] * [132-996] | [link](https://github.com/nnizhang/SMAC)
+11  | [**COME15K**](https://arxiv.org/pdf/2010.05537.pdf)      |2021 |ICCV  | 15K   | Multiple  |Diversity       | -- | [link](https://github.com/JingZhang617/cascaded_rgbd_sod)
 
 
 
