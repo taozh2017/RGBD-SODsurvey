@@ -63,7 +63,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 125 | 2021 |CAN  | PR        |Context-aware network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320304337)/Project
 124 | 2021 |--   | Neurocomputing |Rethinking feature aggregation for deep RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231220316921)/Project
 123 | 2021 |--   | Neurocomputing |Circular Complement Network for RGB-D Salient Object Detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221005944)/Project
-122 | 2019 | LSF   | IJCV          | CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse | [Paper](https://arxiv.org/pdf/1909.09309.pdf)/Project
+122 | 2021 | LSF   | IJCV          | CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse | [Paper](https://arxiv.org/pdf/1909.09309.pdf)/Project
 121 | 2021 |TriTransNet  | ACM MM | TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network  | Paper/[Project](https://github.com/liuzywen/TriTransNet)
 120 | 2021 |CDINet  | ACM MM | Cross-modality Discrepant Interaction Network for RGB-D Salient Object Detection  | Paper/Project
 119 | 2021 |DFM-Net  | ACM MM | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Project](https://github.com/zwbx/DFM-Net)
