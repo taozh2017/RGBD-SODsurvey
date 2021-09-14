@@ -53,10 +53,29 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2021-08-17)
+:fire::fire::fire:Update (in 2021-09-14)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+:fire:130 | 2021 |SP-Net  | ICCV| Specificity-preserving RGB-D Saliency Detection  | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Project](https://github.com/taozh2017/SPNet)
+:fire:129 | 2021 |--      | ICCV| RGB-D Saliency Detection via Cascaded Mutual Information Minimization  | Paper/[Project](https://github.com/JingZhang617/cascaded_rgbd_sod)
+128 | 2021 |TMFNet   | IEEE TETCI| TMFNet: Three-Input Multilevel Fusion Network for Detecting Salient Objects in RGB-D Images  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512550)/Project
+127 | 2021 |--   | SP| Multiscale multilevel context and multimodal fusion for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0165168420303091)/Project
+126 | 2021 |--   | IEEE TMM |Employing Bilinear Fusion and Saliency Prior Information for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392336)/Project
+125 | 2021 |CAN  | PR        |Context-aware network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320304337)/Project
+124 | 2021 |--   | Neurocomputing |Rethinking feature aggregation for deep RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231220316921)/Project
+123 | 2021 |--   | Neurocomputing |Circular Complement Network for RGB-D Salient Object Detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221005944)/Project
+122 | 2021 | LSF   | IJCV          | CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse | [Paper](https://arxiv.org/pdf/1909.09309.pdf)/Project
+121 | 2021 |TriTransNet  | ACM MM | TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network  | Paper/[Project](https://github.com/liuzywen/TriTransNet)
+120 | 2021 |CDINet  | ACM MM | Cross-modality Discrepant Interaction Network for RGB-D Salient Object Detection  | Paper/Project
+119 | 2021 |DFM-Net  | ACM MM | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Project](https://github.com/zwbx/DFM-Net)
+118 | 2021 |VST  | arXiv | Visual Saliency Transformer   | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/Project
+117 | 2021 |--  | arXiv | Progressive Multi-scale Fusion Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2106.03941.pdf)/Project
+116 | 2021 |--  | arXiv | Dynamic Knowledge Distillation with A Single Stream Structure for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2106.09517.pdf)/Project
+115 | 2021 |MRINet  | SPL | MRINet: Multilevel Reverse-Context Interactive-Fusion Network for Detecting Salient Objects in RGB-D Images  | [Paper](https://ieeexplore.ieee.org/abstract/document/9466383)/Project
+114 | 2021 |DSA^2F  | CVPR | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion  | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Deep_RGB-D_Saliency_Detection_With_Depth-Sensitive_Attention_and_Automatic_Multi-Modal_CVPR_2021_paper.pdf)/[Project](https://github.com/sunpeng1996/DSA2F)
+113 | 2021 |DCF  | CVPR | Calibrated RGB-D Salient Object Detection  | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Calibrated_RGB-D_Salient_Object_Detection_CVPR_2021_paper.pdf)/[Project](https://github.com/jiwei0921/DCF)
+112 | 2021 |BTS-Net  | ICME| BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection  | Paper/[Project](https://github.com/zwbx/BTS-Net)
 111 | 2021 |CDNet  | IEEE TIP| CDNet: Complementary Depth Network for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9366409)/[Project](https://github.com/blanclist/CDNet)
 110 | 2021 |CCAFNet  | IEEE TMM | CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images  | [Paper](https://ieeexplore.ieee.org/abstract/document/9424966)/Project
 109 | 2021 |ShuffeNet  | arXiv | Middle-level Fusion for Lightweight RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2104.11543.pdf)/Project
