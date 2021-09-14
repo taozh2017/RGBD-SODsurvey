@@ -57,7 +57,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 :fire:130 | 2021 |SP-Net  | ICCV| Specificity-preserving RGB-D Saliency Detection  | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Project](https://github.com/taozh2017/SPNet)
-:fire:129 | 2021 |--  | ICCV| RGB-D Saliency Detection via Cascaded Mutual Information Minimization  | Paper/[Project](https://github.com/JingZhang617/cascaded_rgbd_sod)
+:fire:129 | 2021 |--      | ICCV| RGB-D Saliency Detection via Cascaded Mutual Information Minimization  | Paper/[Project](https://github.com/JingZhang617/cascaded_rgbd_sod)
 128 | 2021 |TMFNet   | IEEE TETCI| TMFNet: Three-Input Multilevel Fusion Network for Detecting Salient Objects in RGB-D Images  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512550)/Project
 127 | 2021 |--   | SP| Multiscale multilevel context and multimodal fusion for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0165168420303091)/Project
 126 | 2021 |--   | IEEE TMM |Employing Bilinear Fusion and Saliency Prior Information for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392336)/Project
