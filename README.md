@@ -53,6 +53,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+:fire::fire::fire:Update (in 2021-08-17)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 111 | 2021 |CDNet  | IEEE TIP| CDNet: Complementary Depth Network for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9366409)/[Project](https://github.com/blanclist/CDNet)
