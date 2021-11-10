@@ -335,7 +335,7 @@ We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five dat
 
 ### Attribute-based Evaluation: <a id="Attribute" class="anchor" href="#Attribute" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-1. Downloading attribute datasets [STERE](http://dpfan.net/wp-content/uploads/STERE_dataset_CVPR12.pdf)
+1. Downloading attribute datasets [Baidu Drive](https://pan.baidu.com/s/11CZ7njZ2X9CTKN8nGFlAog)
     
 
 
