@@ -57,8 +57,25 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:130 | 2021 |SP-Net  | ICCV| Specificity-preserving RGB-D Saliency Detection  | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Project](https://github.com/taozh2017/SPNet)
-:fire:129 | 2021 |--      | ICCV| RGB-D Saliency Detection via Cascaded Mutual Information Minimization  | Paper/[Project](https://github.com/JingZhang617/cascaded_rgbd_sod)
+:fire:147 | 2021 |PGFNet | IEEE TNNLS |RGB-D Point Cloud Registration Based on Salient Object Detection   | [Paper](https://ieeexplore.ieee.org/abstract/document/9350205)/Project
+:fire:146 | 2021 |M2RNet | arXiv |M2RNet: Multi-modal and Multi-scale Refined Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/abs/2109.07922)/Project
+:fire:145 | 2021 |-- | TVC |Guided residual network for RGB-D salient object detection with efficient depth feature learning | [Paper](https://link.springer.com/article/10.1007/s00371-021-02106-5)/Project
+:fire:144 | 2021 |-- | Neurocomputing |A cross-modal edge-guided salient object detection for RGB-D image | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221007244)/Project
+:fire:143 | 2021 |-- | CEI |A deep multimodal feature learning network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S004579062100029X)/Project
+:fire:142 | 2021 |PGFNet | IEEE Access |Progressive Guided Fusion Network With Multi-Modal and Multi-Scale Attention for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9606676)/Project
+141 | 2021 |-- | TVC |Multi-level progressive parallel attention guided salient object detection for RGB-D images  | [Paper](https://link.springer.com/article/10.1007/s00371-020-01821-9)/Project
+140 | 2021 |-- | EAAI | Multi-scale iterative refinement network for RGB-D salient object detection     | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197621003213)/Project
+139 | 2021 |-- | IEEE TMM | Employing Bilinear Fusion and Saliency Prior Information for RGB-D Salient Object Detection     | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392336)/Project
+138 | 2021 |-- | PR | Context-aware network for RGB-D salient object detection    | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320304337)/Project
+137 | 2021 |DSNet | IEEE TIP | Dynamic Selective Network for RGB-D Salient Object Detection    | [Paper](https://ieeexplore.ieee.org/abstract/document/9605221)/Project
+136 | 2021 |ACFNet | arXiv | ACFNet: Adaptively-Cooperative Fusion Network for RGB-D Salient Object Detection   | [Paper](https://arxiv.org/abs/2109.04627)/Project
+135 | 2021 |AFI-Net | CIN | AFI-Net: Attention-Guided Feature Integration Network for RGBD Saliency Detection  | [Paper](https://www.hindawi.com/journals/cin/2021/8861446/)/Project
+134 | 2021 |JSM | NIPS | Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection  | [Paper](https://papers.nips.cc/paper/2021/file/642e92efb79421734881b53e1e1b18b6-Paper.pdf)/[Project](https://github.com/jiwei0921/JSM)
+133 | 2021 |PGFNet | IEEE Access | Progressive Guided Fusion Network With Multi-Modal and Multi-Scale Attention for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9606676)/Project
+132 | 2021 |-- | PR | Discriminative unimodal feature selection and fusion for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320321005392)/Project
+131 | 2021 |UTA | IEEE TIP| RGB-D Salient Object Detection With Ubiquitous Target Awareness  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9529069)/Project
+130 | 2021 |SP-Net  | ICCV| Specificity-preserving RGB-D Saliency Detection  | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Project](https://github.com/taozh2017/SPNet)
+129 | 2021 |--      | ICCV| RGB-D Saliency Detection via Cascaded Mutual Information Minimization  | Paper/[Project](https://github.com/JingZhang617/cascaded_rgbd_sod)
 128 | 2021 |TMFNet   | IEEE TETCI| TMFNet: Three-Input Multilevel Fusion Network for Detecting Salient Objects in RGB-D Images  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512550)/Project
 127 | 2021 |--   | SP| Multiscale multilevel context and multimodal fusion for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0165168420303091)/Project
 126 | 2021 |--   | IEEE TMM |Employing Bilinear Fusion and Saliency Prior Information for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392336)/Project
