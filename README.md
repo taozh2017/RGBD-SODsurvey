@@ -57,12 +57,13 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:147 | 2021 |PGFNet | IEEE TNNLS |RGB-D Point Cloud Registration Based on Salient Object Detection   | [Paper](https://ieeexplore.ieee.org/abstract/document/9350205)/Project
-:fire:146 | 2021 |M2RNet | arXiv |M2RNet: Multi-modal and Multi-scale Refined Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/abs/2109.07922)/Project
-:fire:145 | 2021 |-- | TVC |Guided residual network for RGB-D salient object detection with efficient depth feature learning | [Paper](https://link.springer.com/article/10.1007/s00371-021-02106-5)/Project
-:fire:144 | 2021 |-- | Neurocomputing |A cross-modal edge-guided salient object detection for RGB-D image | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221007244)/Project
-:fire:143 | 2021 |-- | CEI |A deep multimodal feature learning network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S004579062100029X)/Project
-:fire:142 | 2021 |PGFNet | IEEE Access |Progressive Guided Fusion Network With Multi-Modal and Multi-Scale Attention for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9606676)/Project
+:fire:148 | 2021 |MobileSal | IEEE TPAMI |MobileSal: Extremely Efficient RGB-D Salient Object Detection   | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9647954)/[Project](https://github.com/yuhuan-wu/mobilesal)
+147 | 2021 |PGFNet | IEEE TNNLS |RGB-D Point Cloud Registration Based on Salient Object Detection   | [Paper](https://ieeexplore.ieee.org/abstract/document/9350205)/Project
+146 | 2021 |M2RNet | arXiv |M2RNet: Multi-modal and Multi-scale Refined Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/abs/2109.07922)/Project
+145 | 2021 |-- | TVC |Guided residual network for RGB-D salient object detection with efficient depth feature learning | [Paper](https://link.springer.com/article/10.1007/s00371-021-02106-5)/Project
+144 | 2021 |-- | Neurocomputing |A cross-modal edge-guided salient object detection for RGB-D image | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221007244)/Project
+143 | 2021 |-- | CEI |A deep multimodal feature learning network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S004579062100029X)/Project
+142 | 2021 |PGFNet | IEEE Access |Progressive Guided Fusion Network With Multi-Modal and Multi-Scale Attention for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9606676)/Project
 141 | 2021 |-- | TVC |Multi-level progressive parallel attention guided salient object detection for RGB-D images  | [Paper](https://link.springer.com/article/10.1007/s00371-020-01821-9)/Project
 140 | 2021 |-- | EAAI | Multi-scale iterative refinement network for RGB-D salient object detection     | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197621003213)/Project
 139 | 2021 |-- | IEEE TMM | Employing Bilinear Fusion and Saliency Prior Information for RGB-D Salient Object Detection     | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392336)/Project
