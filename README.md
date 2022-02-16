@@ -53,11 +53,19 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2021-09-14)
+:fire::fire::fire:Update (in 2022-02-16)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:148 | 2021 |MobileSal | IEEE TPAMI |MobileSal: Extremely Efficient RGB-D Salient Object Detection   | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9647954)/[Project](https://github.com/yuhuan-wu/mobilesal)
+:fire:156 | 2022 |FANet| SP:IC| FANet: Feature aggregation network for RGBD saliency detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596521002964)/Project
+155 | 2022 |DCMF | IEEE TIP| Learning Discriminative Cross-Modality Features for RGB-D Saliency Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9678058)/[Project](https://github.com/fereenwong/DCMF)
+154 | 2022 |DS-Net | IEEE TIP| Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9673131)/Project
+153 | 2022 |CFIDNet | NCA| CFIDNet: cascaded feature interaction decoder for RGB-D salient object detection | [Paper](https://link.springer.com/article/10.1007/s00521-021-06845-3)/[Project](https://github.com/clelouch/CFIDNet)
+152 | 2022 |-- | IVC| Double cross-modality progressively guided network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885621002560)/Project
+151 | 2022 |-- | PR|Discriminative unimodal feature selection and fusion for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320321005392)/Project
+150 | 2022 |BPGNet | IEEE TCSVT |Bi-directional Progressive Guidance Network for RGB-D Salient Object Detection    | [Paper](https://ieeexplore.ieee.org/abstract/document/9686679)/Project
+149 | 2022 |-- | ESA |Aggregate interactive learning for RGB-D salient object detection   | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417422001051)/Project
+148 | 2021 |MobileSal | IEEE TPAMI | MobileSal: Extremely Efficient RGB-D Salient Object Detection     | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9647954)/[Project](https://github.com/yuhuan-wu/mobilesal)
 147 | 2021 |PGFNet | IEEE TNNLS |RGB-D Point Cloud Registration Based on Salient Object Detection   | [Paper](https://ieeexplore.ieee.org/abstract/document/9350205)/Project
 146 | 2021 |M2RNet | arXiv |M2RNet: Multi-modal and Multi-scale Refined Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/abs/2109.07922)/Project
 145 | 2021 |-- | TVC |Guided residual network for RGB-D salient object detection with efficient depth feature learning | [Paper](https://link.springer.com/article/10.1007/s00371-021-02106-5)/Project
