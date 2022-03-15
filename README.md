@@ -57,7 +57,8 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:156 | 2022 |FANet| SP:IC| FANet: Feature aggregation network for RGBD saliency detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596521002964)/Project
+:fire:157 | 2022 |--| ICLR| Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection  | [Paper](https://openreview.net/pdf?id=BZnnMbt0pW)/Project
+156 | 2022 |FANet| SP:IC| FANet: Feature aggregation network for RGBD saliency detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596521002964)/Project
 155 | 2022 |DCMF | IEEE TIP| Learning Discriminative Cross-Modality Features for RGB-D Saliency Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9678058)/[Project](https://github.com/fereenwong/DCMF)
 154 | 2022 |DS-Net | IEEE TIP| Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9673131)/Project
 153 | 2022 |CFIDNet | NCA| CFIDNet: cascaded feature interaction decoder for RGB-D salient object detection | [Paper](https://link.springer.com/article/10.1007/s00521-021-06845-3)/[Project](https://github.com/clelouch/CFIDNet)
