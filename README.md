@@ -57,7 +57,24 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:157 | 2022 |--| ICLR| Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection  | [Paper](https://openreview.net/pdf?id=BZnnMbt0pW)/Project
+:fire:175 | 2022 |MEANet| Neurocomputing | MEANet: Multi-modal edge-aware network for light field salient object detection  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003502)/[Project](https://github.com/jiangyao-scu/MEANet)
+174 | 2022 |--| arXiv | Depth-Cooperated Trimodal Network for Video Salient Object Detection   | [Paper](https://arxiv.org/abs/2202.06060)/Project
+173 | 2022 |DFTR| arXiv | DFTR: Depth-supervised Fusion Transformer for Salient Object Detection  | [Paper](https://arxiv.org/abs/2203.06429)/Project
+172 | 2022 |--| JP: CS | Multi-level interactions for RGB-D object detection | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/2181/1/012003/meta)/Project
+171 | 2022 |--| AAAI |  Self-Supervised Pretraining for RGB-D Salient Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-4882.ZhaoX.pdf)/[Project](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD)
+170 | 2022 |GroupTransNet| arXiv | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2203.10785)/Project
+169 | 2022 |GroupTransNet| arXiv | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2203.10785)/Project
+168 | 2022 |BGRDNet| MTAP | BGRDNet: RGB-D salient object detection with a bidirectional gated recurrent decoding network  | [Paper](https://link.springer.com/article/10.1007/s11042-022-12799-y)/Project
+167 | 2022 |LIANet| IEEE Access| LIANet: Layer Interactive Attention Network for RGB-D Salient Object Detectionn  | [Paper](https://ieeexplore.ieee.org/abstract/document/9729233)/Project
+166 | 2022 |AGRFNet| SP:IC| AGRFNet: Two-stage cross-modal and multi-level attention gated recurrent fusion network for RGB-D saliency detection  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000261)/Project
+165 | 2022 |--| IEEE TIP| Weakly Supervised RGB-D Salient Object Detection With Prediction Consistency Training and Active Scribble Boosting  | [Paper](https://ieeexplore.ieee.org/abstract/document/9720104)/Project
+164 | 2022 |--| PR| Discriminative unimodal feature selection and fusion for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320321005392)/Project
+163 | 2022 |MIA_DPD| Neurocomputing| Multi-modal interactive attention and dual progressive decoding network for RGB-D/T salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222002971)/[Project](https://github.com/Liangyh18/MIA_DPD)
+162 | 2022 |--| PR| Discriminative unimodal feature selection and fusion for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320321005392)/Project
+161 | 2022 |--| ESA| Aggregate interactive learning for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417422001051)/Project
+160 | 2022 |FCMNet| Neurocomputing| FCMNet: Frequency-aware cross-modality attention networks for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222003848)/Project
+159 | 2022 |--| PR| Encoder Deep Interleaved Network with Multi-scale Aggregation for RGB-D Salient Object Detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322001479)/Project
+158 | 2022 |--| ICLR| Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection  | [Paper](https://openreview.net/pdf?id=BZnnMbt0pW)/Project
 156 | 2022 |FANet| SP:IC| FANet: Feature aggregation network for RGBD saliency detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596521002964)/Project
 155 | 2022 |DCMF | IEEE TIP| Learning Discriminative Cross-Modality Features for RGB-D Saliency Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9678058)/[Project](https://github.com/fereenwong/DCMF)
 154 | 2022 |DS-Net | IEEE TIP| Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9673131)/Project
