@@ -53,11 +53,24 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2022-02-16)
+:fire::fire::fire:Update (in 2022-07-05)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:175 | 2022 |MEANet| Neurocomputing | MEANet: Multi-modal edge-aware network for light field salient object detection  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003502)/[Project](https://github.com/jiangyao-scu/MEANet)
+:fire:188 | 2022 |-| IEEE TIP | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers  | [Paper](https://ieeexplore.ieee.org/abstract/document/9810116)/Project
+187 | 2022 |-| MTAP | A benchmark dataset and baseline model for co-salient object detection within RGB-D images | [Paper](https://link.springer.com/article/10.1007/s11042-021-11555-y)/Project
+186 | 2022 |SA-DPNet| PR | SA-DPNet: Structure-aware dual pyramid network for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322001054)/Project
+185 | 2022 |-| JPCS | RGBD salient object detection based on depth feature enhancement  | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/2181/1/012008/meta)/Project
+184 | 2022 |-| JCSC | Bifurcation Fusion Network for RGB-D Salient Object Detection  | [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218126622502152)/Project
+183 | 2022 |-| arXiv | Dynamic Message Propagation Network for RGB-D Salient Object Detection   | [Paper](https://arxiv.org/pdf/2206.09552.pdf)/Project
+182 | 2022 |-| IEEE TMM | Depth-induced Gap-reducing Network for RGB-D Salient Object Detection: An Interaction, Guidance and Refinement Approach   | [Paper](https://ieeexplore.ieee.org/abstract/document/9769984)/Project
+181 | 2022 |-| arXiv | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection   | [Paper](https://arxiv.org/pdf/2206.03105.pdf)/Project
+180 | 2022 |MoADNet| IEEE TCSVT | MoADNet: Mobile Asymmetric Dual-Stream Networks for Real-Time and Lightweight RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9789193)/Project
+179 | 2022 |A2TPNet| Electronics | A2TPNet: Alternate Steered Attention and Trapezoidal Pyramid Fusion Network for RGB-D Salient Object Detection  | [Paper](https://www.mdpi.com/2079-9292/11/13/1968)/Project
+178 | 2022 |--| NPL | Depth Enhanced Cross-Modal Cascaded Network for RGB-D Salient Object Detection  | [Paper](https://link.springer.com/article/10.1007/s11063-022-10886-7)/Project
+177 | 2022 |--| KBS | Boosting RGB-D salient object detection with adaptively cooperative dynamic fusion network  | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122005998)/Project
+176 | 2022 |C2DFNet| IEEE TMM | C2DFNet: Criss-Cross Dynamic Filter Network for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9813422)/[Project](https://github.com/OIPLab-DUT/C2DFNet)
+175 | 2022 |MEANet| Neurocomputing | MEANet: Multi-modal edge-aware network for light field salient object detection  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003502)/[Project](https://github.com/jiangyao-scu/MEANet)
 174 | 2022 |--| arXiv | Depth-Cooperated Trimodal Network for Video Salient Object Detection   | [Paper](https://arxiv.org/abs/2202.06060)/Project
 173 | 2022 |DFTR| arXiv | DFTR: Depth-supervised Fusion Transformer for Salient Object Detection  | [Paper](https://arxiv.org/abs/2203.06429)/Project
 172 | 2022 |--| JP: CS | Multi-level interactions for RGB-D object detection | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/2181/1/012003/meta)/Project
