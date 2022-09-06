@@ -53,11 +53,14 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2022-07-05)
+:fire::fire::fire:Update (in 2022-09-06)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:188 | 2022 |-| IEEE TIP | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers  | [Paper](https://ieeexplore.ieee.org/abstract/document/9810116)/Project
+:fire:191 | 2022 |MVSalNet | ECCV | MVSalNet:Multi-View Augmentation for RGB-D Salient Object Detection  | Paper/[Project](https://github.com/Heart-eartH/MVSalNet)
+:fire:190 | 2022 |SPSN     | ECCV | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Project](https://github.com/Hydragon516/SPSN)
+189 | 2022 |RLLNet     | SCIS | RLLNet: a lightweight remaking learning network for saliency redetection on RGB-D images  | [Paper](https://link.springer.com/article/10.1007/s11432-020-3337-9)/Project
+188 | 2022 |-| IEEE TIP | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers  | [Paper](https://ieeexplore.ieee.org/abstract/document/9810116)/Project
 187 | 2022 |-| MTAP | A benchmark dataset and baseline model for co-salient object detection within RGB-D images | [Paper](https://link.springer.com/article/10.1007/s11042-021-11555-y)/Project
 186 | 2022 |SA-DPNet| PR | SA-DPNet: Structure-aware dual pyramid network for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322001054)/Project
 185 | 2022 |-| JPCS | RGBD salient object detection based on depth feature enhancement  | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/2181/1/012008/meta)/Project
