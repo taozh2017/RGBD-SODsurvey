@@ -53,12 +53,30 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2022-09-06)
+:fire::fire::fire:Update (in 2022-12-14)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:191 | 2022 |MVSalNet | ECCV | MVSalNet:Multi-View Augmentation for RGB-D Salient Object Detection  | Paper/[Project](https://github.com/Heart-eartH/MVSalNet)
-:fire:190 | 2022 |SPSN     | ECCV | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Project](https://github.com/Hydragon516/SPSN)
+:fire:209 | 2022 |--|IEEE TIP| Improving RGB-D Salient Object Detection via Modality-Aware Decoder   | [Paper](https://ieeexplore.ieee.org/abstract/document/9894275)/[Project](https://github.com/MengkeSong/MaD)
+208 | 2022 |--| ICIP | Multi-Modal Transformer for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9898069)/Project
+207 | 2022 |--| AI | A cascaded refined rgb-d salient object detection network based on the attention mechanism  | [Paper](https://link.springer.com/article/10.1007/s10489-022-04186-9)/Project
+206 | 2022 |EFGNet| DSP | EFGNet: Encoder steered multi-modality feature guidance network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S105120042200392X)/Project
+205 | 2022 |--| ICIP | Dynamic Selection Network For Rgb-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9897821)/Project
+204 | 2022 |--| IEEE SPL | Cross-stage Multi-scale Interaction Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9956739)/Project
+203 | 2022 |GCENet| JVCIR | GCENet: Global contextual exploration network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1047320322002000)/Project
+202 | 2022 |SiamRIR|ACCV | Multi-scale Residual Interaction for RGB-D Salient Object Detection  | [Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Hu_Multi-scale_Residual_Interaction_for_RGB-D_Salient_Object_Detection_ACCV_2022_paper.pdf)/Project
+201 | 2022 |SAFNet| ACCV | Scale Adaptive Fusion Network for RGB-D Salient Object Detection  | [Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Kong_Scale_Adaptive_Fusion_Network_for_RGB-D_Salient_Object_Detection_ACCV_2022_paper.pdf)/Project
+200 | 2022 |TBINet|ACCV| Three-Stage Bidirectional Interaction Network for Efficient RGB-D Salient Object Detection  | [Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Three-Stage_Bidirectional_Interaction_Network_for_Efficient_RGB-D_Salient_Object_Detection_ACCV_2022_paper.pdf)/[Project](https://github.com/AWORKERINKIKIMORE/TBINet)
+199 | 2022 |--|Neurocomputing| Few-shot learning-based RGB-D salient object detection: A case study  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222011055)/Project
+198 | 2022 |--|ACM MM | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection  | [Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548037)/Project
+197 | 2022 |RD3D|IEEE TNNLS | 3-D Convolutional Neural Networks for RGB-D Salient Object Detection and Beyond  | [Paper](https://ieeexplore.ieee.org/abstract/document/9889257)/[Project](https://github.com/QianChen98/RD3D)
+196 | 2022 |--| IEEE TIP | Middle-Level Feature Fusion for Lightweight RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9923611)/Project
+195 | 2022 |--| Neurocomputing | Depth-aware inverted refinement network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222014126)/Project
+194 | 2022 |DCMNet| ESA | DCMNet: Discriminant and cross-modality network for RGB-D salient object detection   | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417422020656)/Project
+193 | 2022 |HINet| PR | Cross-modal hierarchical interaction network for RGB-D salient object detection   | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006732)/[Project](https://github.com/RanwanWu/HINet)
+192 | 2022 |CIR-Net| IEEE TIP | CIR-Net: Cross-modality interaction and refinement for RGB-D salient object detection   | [Paper](https://ieeexplore.ieee.org/abstract/document/9930882)/[arXiv](https://arxiv.org/pdf/2210.02843.pdf)/[Project](https://rmcong.github.io/proj_CIRNet.html)
+191 | 2022 |MVSalNet | ECCV | MVSalNet:Multi-View Augmentation for RGB-D Salient Object Detection  | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890268.pdf)/[Project](https://github.com/Heart-eartH/MVSalNet)
+190 | 2022 |SPSN     | ECCV | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Project](https://github.com/Hydragon516/SPSN)
 189 | 2022 |RLLNet     | SCIS | RLLNet: a lightweight remaking learning network for saliency redetection on RGB-D images  | [Paper](https://link.springer.com/article/10.1007/s11432-020-3337-9)/Project
 188 | 2022 |-| IEEE TIP | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers  | [Paper](https://ieeexplore.ieee.org/abstract/document/9810116)/Project
 187 | 2022 |-| MTAP | A benchmark dataset and baseline model for co-salient object detection within RGB-D images | [Paper](https://link.springer.com/article/10.1007/s11042-021-11555-y)/Project
