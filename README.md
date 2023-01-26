@@ -420,7 +420,7 @@ We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five dat
 ### RGB-D SOD Benchmark : <a id="benchmark" class="anchor" href="#benchmark" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 The complete RGB-D SOD benchmark can be found in this page:
-[http://dpfan.net/d3netbenchmark/](http://dpfan.net/d3netbenchmark/)
+[https://github.com/DengPingFan/D3NetBenchmark](https://github.com/DengPingFan/D3NetBenchmark)
 
 ------
 ------
