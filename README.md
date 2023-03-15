@@ -53,11 +53,15 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2022-12-14)
+:fire::fire::fire:Update (in 2023-03-15)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:209 | 2022 |--|IEEE TIP| Improving RGB-D Salient Object Detection via Modality-Aware Decoder   | [Paper](https://ieeexplore.ieee.org/abstract/document/9894275)/[Project](https://github.com/MengkeSong/MaD)
+:fire:211 | 2023 |--| arXiv | Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2302.08052.pdf)/Project 
+210 | 2023 |HiDAnet| arXiv | HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness  | [Paper](https://arxiv.org/pdf/2301.07405.pdf)/Project 
+209 | 2023 |AFNet| Neurocomputing | Adaptive fusion network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222015090)/[Project](https://github.com/clelouch/AFNet)
+208 | 2023 |EGA-Net| Information Sciences | EGA-Net: Edge feature enhancement and global information attention network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025523000324)/[Project](https://github.com/guanyuzong/EGA-Net)
+209 | 2022 |--|IEEE TIP| Improving RGB-D Salient Object Detection via Modality-Aware Decoder   | [Paper](https://ieeexplore.ieee.org/abstract/document/9894275)/[Project](https://github.com/MengkeSong/MaD)
 208 | 2022 |--| ICIP | Multi-Modal Transformer for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9898069)/Project
 207 | 2022 |--| AI | A cascaded refined rgb-d salient object detection network based on the attention mechanism  | [Paper](https://link.springer.com/article/10.1007/s10489-022-04186-9)/Project
 206 | 2022 |EFGNet| DSP | EFGNet: Encoder steered multi-modality feature guidance network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S105120042200392X)/Project
@@ -420,7 +424,7 @@ We obtain the terms of $S_{\alpha}$ and MAE values for the 24 models on five dat
 ### RGB-D SOD Benchmark : <a id="benchmark" class="anchor" href="#benchmark" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 The complete RGB-D SOD benchmark can be found in this page:
-[https://github.com/DengPingFan/D3NetBenchmark](https://github.com/DengPingFan/D3NetBenchmark)
+[http://dpfan.net/d3netbenchmark/](http://dpfan.net/d3netbenchmark/)
 
 ------
 ------
