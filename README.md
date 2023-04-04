@@ -58,7 +58,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 :fire:211 | 2023 |--| arXiv | Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2302.08052.pdf)/Project 
-210 | 2023 |HiDAnet| arXiv | HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness  | [Paper](https://arxiv.org/pdf/2301.07405.pdf)/Project 
+210 | 2023 |HiDAnet| arXiv | HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness  | [Paper](https://ieeexplore.ieee.org/document/10091765)/[Project](https://github.com/Zongwei97/HIDANet/)
 209 | 2023 |AFNet| Neurocomputing | Adaptive fusion network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222015090)/[Project](https://github.com/clelouch/AFNet)
 208 | 2023 |EGA-Net| Information Sciences | EGA-Net: Edge feature enhancement and global information attention network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025523000324)/[Project](https://github.com/guanyuzong/EGA-Net)
 209 | 2022 |--|IEEE TIP| Improving RGB-D Salient Object Detection via Modality-Aware Decoder   | [Paper](https://ieeexplore.ieee.org/abstract/document/9894275)/[Project](https://github.com/MengkeSong/MaD)
