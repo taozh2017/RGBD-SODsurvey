@@ -61,10 +61,8 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 214| 2023 |HiDAnet| IEEE TIP | HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness  | [Paper](https://ieeexplore.ieee.org/document/10091765)/[Project](https://github.com/Zongwei97/HIDANet/)
 213 | 2023 |AFNet| Neurocomputing | Adaptive fusion network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222015090)/[Project](https://github.com/clelouch/AFNet)
 212 | 2023 |EGA-Net| Information Sciences | EGA-Net: Edge feature enhancement and global information attention network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025523000324)/[Project](https://github.com/guanyuzong/EGA-Net)
-211 | 2022 |RFNet| 3DV | Robust RGB-D Fusion for Saliency Detection
-  | [Paper](https://ieeexplore.ieee.org/document/10044460)/[Project](https://github.com/Zongwei97/RFnet)
-210 | 2022 |PopNet| arXiv | Source-free Depth for Object Pop-out
-  | [Paper](https://arxiv.org/pdf/2212.05370.pdf)/[Project](https://github.com/Zongwei97/PopNet)
+211 | 2022 |RFNet| 3DV | Robust RGB-D Fusion for Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/10044460)/[Project](https://github.com/Zongwei97/RFnet)
+210 | 2022 |PopNet| arXiv | Source-free Depth for Object Pop-out | [Paper](https://arxiv.org/pdf/2212.05370.pdf)/[Project](https://github.com/Zongwei97/PopNet)
 209 | 2022 |--|IEEE TIP| Improving RGB-D Salient Object Detection via Modality-Aware Decoder   | [Paper](https://ieeexplore.ieee.org/abstract/document/9894275)/[Project](https://github.com/MengkeSong/MaD)
 208 | 2022 |--| ICIP | Multi-Modal Transformer for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9898069)/Project
 207 | 2022 |--| AI | A cascaded refined rgb-d salient object detection network based on the attention mechanism  | [Paper](https://link.springer.com/article/10.1007/s10489-022-04186-9)/Project
@@ -128,8 +126,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 149 | 2021 |MobileSal | IEEE TPAMI | MobileSal: Extremely Efficient RGB-D Salient Object Detection     | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9647954)/[Project](https://github.com/yuhuan-wu/mobilesal)
 148 | 2021 |PGFNet | IEEE TNNLS |RGB-D Point Cloud Registration Based on Salient Object Detection   | [Paper](https://ieeexplore.ieee.org/abstract/document/9350205)/Project
 147 | 2021 |M2RNet | arXiv |M2RNet: Multi-modal and Multi-scale Refined Network for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/abs/2109.07922)/Project
-146 | 2021 |MGSNet | 3DV |Modality-Guided Subnetwork for Salient Object Detection
-  | [Paper](https://ieeexplore.ieee.org/document/9665910)/[Project](https://github.com/Zongwei97/MGSnet)
+146 | 2021 |MGSNet | 3DV |Modality-Guided Subnetwork for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9665910)/[Project](https://github.com/Zongwei97/MGSnet)
 145 | 2021 |-- | TVC |Guided residual network for RGB-D salient object detection with efficient depth feature learning | [Paper](https://link.springer.com/article/10.1007/s00371-021-02106-5)/Project
 144 | 2021 |-- | Neurocomputing |A cross-modal edge-guided salient object detection for RGB-D image | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221007244)/Project
 143 | 2021 |-- | CEI |A deep multimodal feature learning network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S004579062100029X)/Project
