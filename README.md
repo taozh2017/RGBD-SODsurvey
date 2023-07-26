@@ -53,16 +53,20 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 ------
 
 ## RGB-D SOD Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:fire::fire::fire:Update (in 2023-03-15)
+:fire::fire::fire:Update (in 2023-07-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire:215 | 2023 |--| arXiv | Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2302.08052.pdf)/Project 
-214| 2023 |HiDAnet| IEEE TIP | HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness  | [Paper](https://ieeexplore.ieee.org/document/10091765)/[Project](https://github.com/Zongwei97/HIDANet/)
-213 | 2023 |AFNet| Neurocomputing | Adaptive fusion network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222015090)/[Project](https://github.com/clelouch/AFNet)
-212 | 2023 |EGA-Net| Information Sciences | EGA-Net: Edge feature enhancement and global information attention network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025523000324)/[Project](https://github.com/guanyuzong/EGA-Net)
-211 | 2022 |RFNet| 3DV | Robust RGB-D Fusion for Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/10044460)/[Project](https://github.com/Zongwei97/RFnet)
-210 | 2022 |PopNet| arXiv | Source-free Depth for Object Pop-out | [Paper](https://arxiv.org/pdf/2212.05370.pdf)/[Project](https://github.com/Zongwei97/PopNet)
+:fire: 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/Project
+:fire: 218 | 2023 |PopNet| ICCV | Source-free Depth for Object Pop-out | [Paper](https://arxiv.org/pdf/2212.05370.pdf)/[Project](https://github.com/Zongwei97/PopNet)
+:fire: 217 | 2023 |FCFNet| IEEE TSCVT | Feature Calibrating and Fusing Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10185946)/Project
+:fire: 216 | 2023 |AirSOD| IEEE TSCVT | AirSOD: A Lightweight Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10184101)/Project
+:fire: 215 | 2023 |CATNet| IEEE TMM | CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10179145)/Project
+214 | 2023 |--| arXiv | Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection  | [Paper](https://arxiv.org/pdf/2302.08052.pdf)/Project 
+213| 2023 |HiDAnet| IEEE TIP | HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness  | [Paper](https://ieeexplore.ieee.org/document/10091765)/[Project](https://github.com/Zongwei97/HIDANet/)
+212 | 2023 |AFNet| Neurocomputing | Adaptive fusion network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222015090)/[Project](https://github.com/clelouch/AFNet)
+211 | 2023 |EGA-Net| Information Sciences | EGA-Net: Edge feature enhancement and global information attention network for RGB-D salient object detection  | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025523000324)/[Project](https://github.com/guanyuzong/EGA-Net)
+210 | 2022 |RFNet| 3DV | Robust RGB-D Fusion for Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/10044460)/[Project](https://github.com/Zongwei97/RFnet)
 209 | 2022 |--|IEEE TIP| Improving RGB-D Salient Object Detection via Modality-Aware Decoder   | [Paper](https://ieeexplore.ieee.org/abstract/document/9894275)/[Project](https://github.com/MengkeSong/MaD)
 208 | 2022 |--| ICIP | Multi-Modal Transformer for RGB-D Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/9898069)/Project
 207 | 2022 |--| AI | A cascaded refined rgb-d salient object detection network based on the attention mechanism  | [Paper](https://link.springer.com/article/10.1007/s10489-022-04186-9)/Project
