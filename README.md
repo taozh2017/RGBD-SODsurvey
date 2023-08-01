@@ -57,7 +57,7 @@ techniques have been widely applied to RGB-D based SOD since 2017. More details 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-:fire: 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/Project
+:fire: 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project](https://github.com/Zongwei97/XMSNet)
 :fire: 218 | 2023 |PopNet| ICCV | Source-free Depth for Object Pop-out | [Paper](https://arxiv.org/pdf/2212.05370.pdf)/[Project](https://github.com/Zongwei97/PopNet)
 :fire: 217 | 2023 |FCFNet| IEEE TSCVT | Feature Calibrating and Fusing Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10185946)/Project
 :fire: 216 | 2023 |AirSOD| IEEE TSCVT | AirSOD: A Lightweight Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10184101)/Project
